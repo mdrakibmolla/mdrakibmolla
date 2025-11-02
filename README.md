@@ -4,8 +4,6 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/ab9a9d94-e5c5-4e25-9852-10499abd4a52" />
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/35738094-ed47-4c39-b6e9-8ff78b26fb2b" />
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrakibmolla&label=Profile%20views&color=0e75b6&style=flat" alt="mdrakibmolla" /> </p>
 
